@@ -1,1 +1,1 @@
-# Python-PTIT
+## [Một số dạng bài có thể ôn cho cuối kỳ](https://github.com/thethanh02/python3/blob/main/test/README.md)
